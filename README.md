@@ -233,6 +233,6 @@ This package provides a nice shiny progressbar and has just one command.
 
 ### Contact
 Unauthorized use prohibited and needs author's permission.
-Please do not hesitate to contact me at _momeni.vesalian@gmail.com_ if you have any questions.
+Please do not hesitate to contact at _momeni.vesalian@gmail.com_ if you have any questions.
 
 Good luck!

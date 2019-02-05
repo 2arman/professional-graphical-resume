@@ -1,11 +1,11 @@
 %%
-%% Author: Ali Asghar Momeni Vesalian (momeni.vesalian@gmail.com)
+%% Author: Arman Ajabkhani (arm.khani@gmail.com)
 %% 12/30/2017 AD
 %%
 
 % Preamble
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{resume}[Professional graphical resume, based on article class and designed by momeni.vesalian@gmail.com]
+\ProvidesClass{resume}[Professional graphical resume, based on article class and designed by arm.khani@gmail.com]
 
 
 % Base class
