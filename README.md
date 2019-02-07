@@ -90,7 +90,7 @@ You can use this package with _gray_ or _cream_ option as a theme.
 
 \align[vertical = middle, horizontal = justify]{Hello world}
 
-\header{/Users/vesalian/personal-image.jpg}{Java Developer}
+\header{/Users/arman/personal-image.jpg}{Java Developer}
 
 \skill[location = mainbar]{Java}{0.9}
 
