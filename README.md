@@ -65,7 +65,7 @@ This package is a set of general layout commands to generate a professional grap
     * _font size:_ _font size_ of the _title_.
 
 ##### How to use the package:
-You can use this package with _gray_ or _cream_ option as a theme.
+You can use this package with _gray_ or _cream_ or _green_ option as a theme.
 ```LaTex
 \usepackage[cream]{resume}
 ```

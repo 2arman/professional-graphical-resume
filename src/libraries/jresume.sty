@@ -110,7 +110,12 @@
         \usepackage[cream]{../libraries/resume}
     }
 }
+\DeclareOption{green}{
+    \AtEndOfPackage{
+        \usepackage[green]{../libraries/resume}
+    }
+}
 \DeclareOption*{
-    \PackageError{jresume}{Unknown '\CurrentOption' option}{Choose 'gray' or 'cream' as a theme}
+    \PackageError{jresume}{Unknown '\CurrentOption' option}{Choose 'gray' or 'cream' or 'green' as a theme}
 }
 \ProcessOptions\relax
