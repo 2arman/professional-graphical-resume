@@ -35,7 +35,7 @@
 \setlength{\parindent}{0pt}
 \vspace*{0pt}
 
-\setmainfont{Tahoma}
+\setmainfont{Times}
 \setromanfont{Times}
 \setsansfont{Tahoma}
 \setmonofont{Monaco}
