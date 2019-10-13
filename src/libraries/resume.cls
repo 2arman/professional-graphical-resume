@@ -36,6 +36,6 @@
 \vspace*{0pt}
 
 \setmainfont{Times}
-\setromanfont{Times}
+\setromanfont{FreeSerif}
 \setsansfont{Tahoma}
 \setmonofont{Monaco}
