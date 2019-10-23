@@ -5,7 +5,7 @@
 
 % Preamble
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{resume}[Professional graphical resume, based on article class and designed by arm.khani@gmail.com]
+\ProvidesClass{resume}[Professional graphical resume, based on article class and designed by Morteza Vesalian]
 
 
 % Base class
