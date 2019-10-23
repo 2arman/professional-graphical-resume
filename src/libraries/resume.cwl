@@ -30,5 +30,6 @@
 \mobile{phone number}
 \email{email address}
 \linkedin{name}{url}
+\github{name}{url}
 \contactitem{title}{description}
 
