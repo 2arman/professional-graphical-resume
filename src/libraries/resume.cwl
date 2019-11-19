@@ -31,5 +31,6 @@
 \email{email address}
 \linkedin{name}{url}
 \github{name}{url}
+\resume{name}{url}
 \contactitem{title}{description}
 
